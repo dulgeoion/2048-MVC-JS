@@ -1,0 +1,2 @@
+gameplay.randomCells();
+gameplay.keyPressed();
